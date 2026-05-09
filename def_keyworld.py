@@ -3,7 +3,7 @@ def std(n,a,r):
  print(f"age : {a}")
  print(f"roll : {r}")
  print()
-
+ 
 std("Zihad",20,85502)
 std("Mezba",19,86940)
 std("Shakil",18,89003)
